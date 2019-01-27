@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Astronaut",
+    "image": "http://www.stickpng.com/assets/thumbs/5b43b86ce99939b4572e32ad.png",
+    "guessed":"false"
+  },
+  {
+    "id": 2,
+    "name": "Alpine Ace",
+    "image": "http://www.stickpng.com/assets/thumbs/5b43b903e99939b4572e32ae.png",
+    "guessed": "false"
+  },
+  {
+    "id": 3,
+    "name": "Brite Gunner",
+    "image": "http://www.stickpng.com/assets/thumbs/5b43b918e99939b4572e32b1.png",
+    "guessed": "false"
+  },
+  {
+    "id": 4,
+    "name": "Cuddle Team Leader",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/fortnite_gamepedia/thumb/2/2b/BattleRoyaleSkin52.png/256px-BattleRoyaleSkin52.png?version=f2a2544d7ab6f6904fb5459042898698",
+    "guessed": "false"
+  },
+  {
+    "id": 5,
+    "name": "Bullet Storm",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/fortnite_gamepedia/thumb/a/a7/Chromium_Ramirez.png/384px-Chromium_Ramirez.png?version=1ecfeb36bba39cc23ce0d49254463637",
+    "guessed": "false"
+  },
+  {
+    "id": 6,
+    "name": "Black Knight",
+    "image": "http://www.stickpng.com/assets/thumbs/5b43b7ede99939b4572e32a5.png",
+    "guessed": "false"
+  },
+  {
+    "id": 7,
+    "name": "Shock Trooper",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/fortnite_gamepedia/thumb/6/61/BandolierOutfit.png/384px-BandolierOutfit.png?version=7afd82de3057ed00597fd07d46143d56",
+    "guessed": "false"
+  },
+  {
+    "id": 8,
+    "name": "Maven",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/fortnite_gamepedia/thumb/a/a5/MavenSkin.png/384px-MavenSkin.png?version=0e8223de213c2df139f676e1ccc2a89b",
+    "guessed": "false"
+  },
+  {
+    "id": 9,
+    "name": "Skull Trooper",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/fortnite_gamepedia/thumb/3/36/Skull_trooper_jonesy_legendary_epic.png/384px-Skull_trooper_jonesy_legendary_epic.png?version=1884d434301fdb7bf8f0b5d0bf71dc89",
+    "guessed": "false"
+  },
+  {
+    "id": 10,
+    "name": "Urban Assault Headhunter",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/fortnite_gamepedia/thumb/5/57/Urban_assault_legendary_portrait.png/384px-Urban_assault_legendary_portrait.png?version=4b6904e954244d1deca532462df62f6a",
+    "guessed": "false"
+  },
+  {
+    "id": 11,
+    "name": "Bunny Raider",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/fortnite_gamepedia/thumb/2/28/Rabbit_Raider_Jonesy.png/384px-Rabbit_Raider_Jonesy.png?version=a434d3401cdfd78eeda3502c9d938f49",
+    "guessed": "false"
+  },
+  {
+    "id": 12,
+    "name": "Ghoul Trooper",
+    "image": "http://www.pngnames.com/files/3/Fortnite-Game-Photo-Background.png",
+    "guessed": "false"
+  }
+]
