@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/fort-click/static/css/main.0b90ebe6.chunk.css"
   },
   {
-    "revision": "2dfeac973be70edddb90481f3937fc20",
+    "revision": "3d479bae87bf4915d64c3d46c0bc1d1b",
     "url": "/fort-click/index.html"
   }
 ];
