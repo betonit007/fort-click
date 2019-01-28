@@ -24,9 +24,13 @@ handleGuess = (guess, id) => {
   else if (guess === "false") {
     friends[id-1].guessed = true;
     
-    if (this.state.score === this.state.highscore) {
+    if (this.state.score === this.state.highscore && this.state.score === 11) {
        this.setState({friends, score: this.state.score + 1, highscore: this.state.highscore + 1, logo: "https://cdn130.picsart.com/271007286019211.png?r240x240"})
     }
+    else if (this.state.score === 11 && this.state.highscore === 12) {
+      this.setState({friends, score: this.state.score + 1, logo: "https://cdn130.picsart.com/271007286019211.png?r240x240"})
+   }
+
     else if (this.state.score === this.state.highscore) {
 
     this.setState({friends, score: this.state.score + 1, highscore: this.state.highscore + 1})
