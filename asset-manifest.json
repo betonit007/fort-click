@@ -1,13 +1,16 @@
 {
-  "main.css": "/fort-click/static/css/main.0b90ebe6.chunk.css",
-  "main.js": "/fort-click/static/js/main.ccb8903a.chunk.js",
-  "main.js.map": "/fort-click/static/js/main.ccb8903a.chunk.js.map",
-  "static/js/1.9c49b165.chunk.js": "/fort-click/static/js/1.9c49b165.chunk.js",
-  "static/js/1.9c49b165.chunk.js.map": "/fort-click/static/js/1.9c49b165.chunk.js.map",
+  "main.css": "/fort-click/static/css/main.9b57633b.chunk.css",
+  "main.js": "/fort-click/static/js/main.d46f1be5.chunk.js",
+  "main.js.map": "/fort-click/static/js/main.d46f1be5.chunk.js.map",
+  "static/js/1.d445a294.chunk.js": "/fort-click/static/js/1.d445a294.chunk.js",
+  "static/js/1.d445a294.chunk.js.map": "/fort-click/static/js/1.d445a294.chunk.js.map",
   "runtime~main.js": "/fort-click/static/js/runtime~main.4f80cb54.js",
   "runtime~main.js.map": "/fort-click/static/js/runtime~main.4f80cb54.js.map",
-  "static/css/main.0b90ebe6.chunk.css.map": "/fort-click/static/css/main.0b90ebe6.chunk.css.map",
+  "static/css/main.9b57633b.chunk.css.map": "/fort-click/static/css/main.9b57633b.chunk.css.map",
+  "static/media/fortnite.png": "/fort-click/static/media/fortnite.b6f15a0e.png",
+  "static/media/dance.gif": "/fort-click/static/media/dance.707aeced.gif",
+  "static/media/victory.png": "/fort-click/static/media/victory.9ee38b0e.png",
   "index.html": "/fort-click/index.html",
-  "precache-manifest.ec088c002fdbcb47f0d2f608bf23235a.js": "/fort-click/precache-manifest.ec088c002fdbcb47f0d2f608bf23235a.js",
+  "precache-manifest.4bad7491377d6854e520799921fd38fc.js": "/fort-click/precache-manifest.4bad7491377d6854e520799921fd38fc.js",
   "service-worker.js": "/fort-click/service-worker.js"
 }
