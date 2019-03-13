@@ -2,25 +2,25 @@
   {
     "id": 1,
     "name": "Astronaut",
-    "image": "http://www.stickpng.com/assets/thumbs/5b43b86ce99939b4572e32ad.png",
+    "image": "./images/astro.png",
     "guessed":"false"
   },
   {
     "id": 2,
     "name": "Alpine Ace",
-    "image": "http://www.stickpng.com/assets/thumbs/5b43b903e99939b4572e32ae.png",
+    "image": "./images/alpine.png",
     "guessed": "false"
   },
   {
     "id": 3,
     "name": "Brite Gunner",
-    "image": "http://www.stickpng.com/assets/thumbs/5b43b918e99939b4572e32b1.png",
+    "image": "./images/Gunner.png",
     "guessed": "false"
   },
   {
     "id": 4,
     "name": "Cuddle Team Leader",
-    "image": "https://d1u5p3l4wpay3k.cloudfront.net/fortnite_gamepedia/thumb/2/2b/BattleRoyaleSkin52.png/256px-BattleRoyaleSkin52.png?version=f2a2544d7ab6f6904fb5459042898698",
+    "image": "./images/cuddle.png",
     "guessed": "false"
   },
   {
@@ -32,7 +32,7 @@
   {
     "id": 6,
     "name": "Black Knight",
-    "image": "http://www.stickpng.com/assets/thumbs/5b43b7ede99939b4572e32a5.png",
+    "image": "./images/black_knight.png",
     "guessed": "false"
   },
   {
@@ -50,7 +50,7 @@
   {
     "id": 9,
     "name": "Skull Trooper",
-    "image": "https://d1u5p3l4wpay3k.cloudfront.net/fortnite_gamepedia/thumb/3/36/Skull_trooper_jonesy_legendary_epic.png/384px-Skull_trooper_jonesy_legendary_epic.png?version=1884d434301fdb7bf8f0b5d0bf71dc89",
+    "image": "./images.skull.png",
     "guessed": "false"
   },
   {
