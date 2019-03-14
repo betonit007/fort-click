@@ -14,7 +14,7 @@
   {
     "id": 3,
     "name": "Brite Gunner",
-    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/Gunner.png",
+    "image": "https://raw.githubusercontent.com/betonit007/fort-click/master/src/images/Gunner.png",
     "guessed": "false"
   },
   {
@@ -44,7 +44,7 @@
   {
     "id": 8,
     "name": "Blue Mystery",
-    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/BlueMystery.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/BlueMystery.png?raw=true",
     "guessed": "false"
   },
   {
