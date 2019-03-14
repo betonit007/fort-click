@@ -32,13 +32,13 @@
   {
     "id": 6,
     "name": "Black Knight",
-    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/black_knight.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/black_knight.png?raw=true",
     "guessed": "false"
   },
   {
     "id": 7,
     "name": "Heidi",
-    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/heidi.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/heidi.png?raw=true",
     "guessed": "false"
   },
   {
@@ -50,25 +50,25 @@
   {
     "id": 9,
     "name": "Skull Trooper",
-    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/skull.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/skull.png?raw=true",
     "guessed": "false"
   },
   {
     "id": 10,
     "name": "Love Ranger",
-    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/Love_Ranger.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/Love_Ranger.png?raw=true",
     "guessed": "false"
   },
   {
     "id": 11,
     "name": "Dark Bomber",
-    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/Dark_Bomber.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/Dark_Bomber.png?raw=true",
     "guessed": "false"
   },
   {
     "id": 12,
     "name": "Ghoul Trooper",
-    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/Ghoul.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/Ghoul.png?raw=true",
     "guessed": "false"
   }
 ]
