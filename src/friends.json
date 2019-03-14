@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "Astronaut",
-    "image": "./images/astro.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/astro.png",
     "guessed":"false"
   },
   {
     "id": 2,
     "name": "Alpine Ace",
-    "image": "./images/alpine.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/alpine.png",
     "guessed": "false"
   },
   {
     "id": 3,
     "name": "Brite Gunner",
-    "image": "./images/Gunner.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/Gunner.png",
     "guessed": "false"
   },
   {
     "id": 4,
     "name": "Cuddle Team Leader",
-    "image": "./images/cuddle.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/cuddle.png",
     "guessed": "false"
   },
   {
     "id": 5,
     "name": "Fyra",
-    "image": "./images/fyra.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/fyra.png",
     "guessed": "false"
   },
   {
     "id": 6,
     "name": "Black Knight",
-    "image": "./images/black_knight.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/black_knight.png",
     "guessed": "false"
   },
   {
     "id": 7,
     "name": "Heidi",
-    "image": "./images/heidi.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/heidi.png",
     "guessed": "false"
   },
   {
     "id": 8,
     "name": "Blue Mystery",
-    "image": "./images/BlueMystery.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/BlueMystery.png",
     "guessed": "false"
   },
   {
     "id": 9,
     "name": "Skull Trooper",
-    "image": "./images.skull.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/skull.png",
     "guessed": "false"
   },
   {
     "id": 10,
     "name": "Love Ranger",
-    "image": "./images/Love_Ranger.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/Love_Ranger.png",
     "guessed": "false"
   },
   {
     "id": 11,
     "name": "Dark Bomber",
-    "image": "./images/Dark_Bomber.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/Dark_Bomber.png",
     "guessed": "false"
   },
   {
     "id": 12,
     "name": "Ghoul Trooper",
-    "image": "./images/ghoul.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/Ghoul.png",
     "guessed": "false"
   }
 ]
