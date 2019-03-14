@@ -2,13 +2,13 @@
   {
     "id": 1,
     "name": "Astronaut",
-    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/astro.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/astro.png?raw=true",
     "guessed":"false"
   },
   {
     "id": 2,
     "name": "Alpine Ace",
-    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/alpine.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/alpine.png?raw=true",
     "guessed": "false"
   },
   {
@@ -20,13 +20,13 @@
   {
     "id": 4,
     "name": "Cuddle Team Leader",
-    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/cuddle.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/cuddle.png?raw=true",
     "guessed": "false"
   },
   {
     "id": 5,
     "name": "Fyra",
-    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/fyra.png",
+    "image": "https://github.com/betonit007/fort-click/blob/master/src/images/fyra.png?raw=true",
     "guessed": "false"
   },
   {
