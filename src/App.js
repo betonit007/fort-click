@@ -5,7 +5,10 @@ import Navbar from "./components/Navbar";
 import friends from "./friends.json";
 import logo from './images/fortnite.png';
 import victory from './images/victory.png';
+import giphy from './images/giphy.gif';
 import loser from './images/dance.gif';
+import {Animated} from 'react-animated-css';
+
 import "./App.css";
 
 class App extends React.Component {
@@ -82,8 +85,14 @@ shuffle = (a) => {
               name={i.name}
               image={i.image}
             />
-          ))) :
-          <></>
+          ))) : (
+                   this.state.score === 12 ? 
+                   <Animated animationOut='zoomOutRight' isVisible={false} animationOutDuration={20000}>
+                     <img alt='flossing' src={giphy} style={{align:'center'}}/>
+                    </Animated>
+                   : <></>
+                   )
+          
         }
           </div>
         
