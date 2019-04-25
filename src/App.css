@@ -14,7 +14,18 @@
   width: 100%;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 720px) {
+  .cardHolder {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+}
+
+@media (min-width: 721px) and (max-width: 960px) {
   .cardHolder {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
