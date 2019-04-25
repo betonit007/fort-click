@@ -2,12 +2,13 @@
 .navbar {
 
 display: flex;
-justify-content: space-around;
+justify-content: space-evenly;
 font-family: 'impact';
-font-size: 50px;
- width: 100%;
+font-size: 30px;
+width: 100%;
 
- 
+
+
 
 	background: linear-gradient(270deg, #ffdea9, #647a93);
 	background-size: 400% 400%;
@@ -35,6 +36,25 @@ font-size: 50px;
 
 }
 
+img {
+	flex-grow: 2;
+	padding: 0;
+	margin: 0;
+}
+
+p {
+	border: 3px solid purple;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+
+.scores {
+	width: 100%;
+	display: flex;
+	justify-content: space-evenly;
+
+}
 
 #score, #hScore {
 	
@@ -42,10 +62,8 @@ font-size: 50px;
 	text-align: center;
 }
 
-#logo {
 
-	display: flex;
-}
+
 
 #restart {
    font-family: 'impact';

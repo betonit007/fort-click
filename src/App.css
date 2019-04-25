@@ -3,3 +3,37 @@
   text-align: center;
   margin-bottom: 50px;
 }
+
+
+
+.cardHolder {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+@media (max-width: 960px) {
+  .cardHolder {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+}
+
+@media (min-width: 1420px) {
+  .cardHolder {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+}
+
+

@@ -14,12 +14,13 @@ state = {
   friends,
   score: 0,
   highscore: 0,
-  logo: logo
+  logo: logo,
+  end: false
 }
 
 handleGuess = (guess, id) => {
   if (guess === true) {
-    this.setState({logo: loser});
+    this.setState({logo: loser, end: true});
     
     
   }
@@ -27,10 +28,10 @@ handleGuess = (guess, id) => {
     friends[id-1].guessed = true;
     
     if (this.state.score === this.state.highscore && this.state.score === 11) {
-       this.setState({friends, score: this.state.score + 1, highscore: this.state.highscore + 1, logo: victory});
+       this.setState({friends, score: this.state.score + 1, highscore: this.state.highscore + 1, logo: victory, end: true});
     }
     else if (this.state.score === 11 && this.state.highscore === 12) {
-      this.setState({friends, score: this.state.score + 1, logo: victory})
+      this.setState({friends, score: this.state.score + 1, logo: victory, end: true})
    }
 
     else if (this.state.score === this.state.highscore) {
@@ -46,7 +47,7 @@ handleGuess = (guess, id) => {
 ////////Restart////////////
 restartGame = () => {
   this.state.friends.map(i=> i.guessed="false");
-  this.setState({friends, score: 0, logo: logo});
+  this.setState({friends, score: 0, logo: logo, end: false});
 }
 
 /////////shuffles friend cards after they are mapped
@@ -67,18 +68,24 @@ shuffle = (a) => {
         restartGame={this.restartGame}
         logo={this.state.logo}
         />
-
-        {this.shuffle(this.state.friends.map(i => (
-          <FriendCard
-            handleGuess = {this.handleGuess}
-            restartGame = {this.restartGame}
-            guessed = {i.guessed}
-            id={i.id}
-            key={i.id}
-            name={i.name}
-            image={i.image}
-          />
-        )))}
+       
+      
+        <div className='cardHolder'>
+        {!this.state.end ? 
+          this.shuffle(this.state.friends.map(i => (
+            <FriendCard
+              handleGuess = {this.handleGuess}
+              restartGame = {this.restartGame}
+              guessed = {i.guessed}
+              id={i.id}
+              key={i.id}
+              name={i.name}
+              image={i.image}
+            />
+          ))) :
+          <></>
+        }
+          </div>
         
       </Wrapper>
     );
